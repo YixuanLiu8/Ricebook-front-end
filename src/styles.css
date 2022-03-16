@@ -1,0 +1,140 @@
+body{
+    background-color:	#EEE9BF;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 4em;
+}
+div{
+    text-align: center;
+    font-family:Times New Roman;
+}
+img{
+    width: 200px;
+    height:200px;
+    padding-top:0px;
+}
+
+.main {
+    text-align: center;
+    background-color:#EE6A50;
+    height:80%;
+    width:95%;
+    margin:50px auto;
+    border:5px solid;
+}
+.box {
+    width:90%;
+    padding: 3em 0em 3em 0em;
+    background-color:#EE9A00;
+    font-size: 1.2em;
+    font-weight:bold;
+    font-family: Times New Roman;
+    margin: 20px auto;
+}
+.add{
+    font-size:0.8em;
+    font-weight:50;
+}
+.box1{
+    width:90%;
+    background-color:#EEEEE0;
+    padding: 3em 0em 3em 0em;
+    border-radius: 1em 1em 1em 1em;
+    font-size: 1.2em;
+    font-family: Times New Roman;
+    margin: 20px 50px;
+}
+#profileBtn,#mainBtn,#btn0,#btn1,#btn2,#btn3,#btn4,#submitBtn{
+    background:#EE9572;
+    border-radius: 0.5em;
+    font-family: STHupo;
+    font-size: 20px;
+}
+.btn1{
+    width:150px;
+    border:solid;
+    margin:auto 190px;
+    background:#EE9572;
+    border-radius: 0.5em;
+    font-family: STHupo;
+    font-size: 20px;
+}
+.btn2{
+    width:200px;
+    border:solid;
+    margin:auto 450px;
+    background:#EE9572;
+    border-radius: 0.5em;
+    font-family: STHupo;
+    font-size: 20px;
+}
+.btn{
+    background:#EE9572;
+    border-radius: 0.5em;
+    font-family: STHupo;
+    font-size: 20px;
+}
+.profile{
+    margin-left: 25%;
+}
+#prolink{
+    text-align: center;
+}
+.hint{
+    color: #BCD2EE;
+    font-size: 1.0em;
+    font-weight:bold;
+    font-family: Microsoft JhengHei;
+    margin: 20px auto;}
+.hint1{
+    height: 2px;
+    color: #BCD2EE;
+    font-size: 0.8em;
+    font-weight:normal;
+    font-family: Microsoft JhengHei;
+    margin: 20px auto;}
+.input1{
+    width:50%;
+    font-size: 1.2em;
+    font-family: Times New Roman;
+}
+.Hi{
+    width:10px;
+}
+.navbar{
+    width:90%;
+    margin: 20px auto;
+    height: 100px;
+    padding: 3em 0em 3em 0em;
+    border-radius: 1em 1em 1em 1em;
+    font-size: 1.2em;
+    font-family: Times New Roman;
+
+}
+.myself{
+    position:absolute;
+    top:300px;
+    width:400px;
+    background-color:#EEEEE0;
+    padding: 3em 0em 3em 0em;
+    border-radius: 1em 1em 1em 1em;
+    font-size: 1.2em;
+    font-family: Times New Roman;
+    margin: 20px 20px;
+}
+
+.box2{
+    position:absolute;
+    top:300px;
+    width:400px;
+    background-color:#EEEEE0;
+    padding: 3em 0em 3em 0em;
+    border-radius: 1em 1em 1em 1em;
+    font-size: 1.2em;
+    font-family: Times New Roman;
+    margin: 20px 20px;
+}
+

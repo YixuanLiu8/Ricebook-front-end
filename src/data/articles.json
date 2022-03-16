@@ -1,0 +1,88 @@
+{"articles":
+[
+  { "author": "Scott" ,
+    "timestamp": "10/18/2021, 9:27:24 PM",
+    "picture" : "1.jpeg",
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "text": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "author": "Joe",
+    "timestamp": "10/17/2021, 1:42:12 AM",
+    "picture": "2.jpg",
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "text": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  },
+  { "author": "Max",
+    "timestamp": "10/15/2021, 2:21:36 PM",
+    "picture": "3.jpeg",
+    "userId": 1,
+    "id": 3,
+    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "text": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  },
+  {
+    "author": "Eric",
+    "timestamp": "10/10/2021, 3:43:17 AM",
+    "picture": "",
+    "userId": 1,
+    "id": 4,
+    "title": "eum et est occaecati",
+    "text": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  },
+  {
+    "author": "James",
+    "timestamp": "10/7/2021, 9:27:24 PM",
+    "picture": "4.jpg",
+    "userId": 1,
+    "id": 5,
+    "title": "nesciunt quas odio",
+    "text": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+  },
+  {"author": "Amy",
+    "timestamp": "10/5/2021, 8:27:14 AM",
+    "picture": "",
+    "userId": 1,
+    "id": 6,
+    "title": "dolorem eum magni eos aperiam quia",
+    "text": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+  },
+  {"author": "Emma",
+    "timestamp":"9/15/2021, 4:47:7 AM",
+    "picture":"5.jpg",
+    "userId": 1,
+    "id": 7,
+    "title": "magnam facilis autem",
+    "text": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+  },
+  {
+    "author": "Justin",
+    "timestamp":"8/6/2021, 3:12:54 PM",
+    "picture":"",
+    "userId": 1,
+    "id": 8,
+    "title": "dolorem dolore est ipsam",
+    "text": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+  },
+  { "author": "Lucia",
+    "timestamp":"7/4/2021, 6:29:51 AM",
+    "picture":"",
+    "userId": 1,
+    "id": 9,
+    "title": "nesciunt iure omnis dolorem tempora et accusantium",
+    "text": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
+  },
+  { "author": "Lewis",
+    "timestamp":"6/4/2021, 9:29:51 AM",
+    "picture":"",
+    "userId": 1,
+    "id": 10,
+    "title": "optio molestias id quia eum",
+    "text": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+  }
+]
+}
